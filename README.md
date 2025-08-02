@@ -6,9 +6,6 @@ Um assistente em tempo real para entrevistas de emprego por telechamada. O progr
 
 O objetivo é fornecer ao entrevistado sugestões de respostas de alta qualidade de forma rápida e imperceptível.
 
-![Exemplo de Screenshot do App](https://i.imgur.com/your-screenshot-url.png) 
-*(Sugestão: tire um screenshot do seu app funcionando e substitua o link acima)*
-
 ---
 
 ## ✨ Funcionalidades
@@ -27,8 +24,8 @@ Este guia foi testado em sistemas baseados em Debian (como Ubuntu). Os passos po
 
 #### **1. Clonar o Repositório**
 ```bash
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-cd SEU_REPOSITORIO
+git clone https://github.com/kauan-kyoshi/IntervCodeAI.git IntervCodeAI
+cd IntervCodeAI
 ```
 
 #### **2. Criar e Ativar um Ambiente Virtual**
