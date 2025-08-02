@@ -1,0 +1,17 @@
+# Arquivos de ambiente virtual
+venv/
+/venv/
+
+# Arquivo com segredos (NUNCA ENVIAR!)
+.env
+
+# Arquivos de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos de depuração que criamos
+src/debug_audio.wav
+
+# Arquivos de configuração de IDEs (ex: VS Code)
+.vscode/
